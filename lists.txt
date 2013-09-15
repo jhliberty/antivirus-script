@@ -1,0 +1,5 @@
+something.txt
+key.txt
+fail.txt
+gallery.php
+index.php

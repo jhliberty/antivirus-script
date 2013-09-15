@@ -1,0 +1,2 @@
+add files to lists.txt, path isn't needed - the script finds the path for you. 
+Requires blank newline at the bottom of lists.txt for some reason
